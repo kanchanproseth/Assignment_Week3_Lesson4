@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment Week 3 Lesson 4</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="android_version_edit_text_hint">Enter Android Version </string>
+    <string name="android_code_name_edit_text_hint">Enter Android Code Name </string>
+    <string name="add_button_title">Add </string>
+</resources>
